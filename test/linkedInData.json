@@ -1,0 +1,814 @@
+{
+  "educations": {
+    "_total": 2,
+    "values": [
+      {
+        "activities": "I tutor students in my program.",
+        "degree": "Business Information Technology",
+        "endDate": {
+          "year": 2016
+        },
+        "fieldOfStudy": "Information Technology",
+        "id": 241223081,
+        "notes": "I am currently studying business information technology",
+        "schoolName": "Red River College",
+        "startDate": {
+          "year": 2014
+        }
+      },
+      {
+        "activities": "School Soccer, basketball",
+        "degree": "Diploma",
+        "endDate": {
+          "year": 2014
+        },
+        "fieldOfStudy": "High School/Secondary Diplomas and Certificates",
+        "id": 243586466,
+        "notes": "I participated in a variety of extra-curricular activities. I played trumpet for 3 year. Some courses include French (4 years) pre-calculus 40s, chemistry 40s, physics 40s.",
+        "schoolName": "Hamiota Collegiate Institute",
+        "startDate": {
+          "year": 2010
+        }
+      }
+    ]
+  },
+  "firstName": "Christopher",
+  "following": {
+    "companies": {
+      "_total": 9,
+      "values": [
+        {
+          "id": 17977,
+          "name": "OMG"
+        },
+        {
+          "id": 25997,
+          "name": "Nichols College"
+        },
+        {
+          "id": 88062,
+          "name": "Brave River Solutions"
+        },
+        {
+          "id": 374384,
+          "name": "Illinois River Energy"
+        },
+        {
+          "id": 408374,
+          "name": "Newbridge College"
+        },
+        {
+          "id": 491332,
+          "name": "Emanuel School"
+        },
+        {
+          "id": 585376,
+          "name": "Red River College"
+        },
+        {
+          "id": 1033686,
+          "name": "University of Lincoln Students' Union"
+        },
+        {
+          "id": 3715357,
+          "name": "Blueshift Innovations"
+        }
+      ]
+    },
+    "industries": {
+      "_total": 1,
+      "values": [
+        {
+          "id": 96
+        }
+      ]
+    },
+    "people": {
+      "_total": 0
+    },
+    "specialEditions": {
+      "_total": 0
+    }
+  },
+  "formattedName": "Christopher Usick",
+  "headline": "Student at Red River College",
+  "id": "8rVShRbD3G",
+  "industry": "Information Technology and Services",
+  "interests": "entrepreneurship, startups, web technologies, cooking, fitness,",
+  "jobBookmarks": {
+    "_total": 2,
+    "values": [
+      {
+        "isApplied": false,
+        "isSaved": true,
+        "job": {
+          "active": true,
+          "company": {
+            "id": 42716,
+            "name": "National Leasing"
+          },
+          "descriptionSnippet": "National Leasing is currently seeking a highly motivated and experienced Intermediate Developer. Reporting to the Manager of Business Technology, the Intermediate Developer will be responsible for the Software Development Life Cycle (SDLC) activities within a project environment; design, development, unit testing and testing support; and implementation/solution delivery.    The Intermediate Develo",
+          "id": 41676888,
+          "position": {
+            "title": "Intermediate Software Developer"
+          },
+          "postingTimestamp": 1427920830000
+        },
+        "savedTimestamp": 1428258297000
+      },
+      {
+        "isApplied": false,
+        "isSaved": true,
+        "job": {
+          "active": true,
+          "company": {
+            "id": 2017369,
+            "name": "Think Shift"
+          },
+          "descriptionSnippet": "You would love a chance to work with the best people and clients in the industry. You want to use your skills to create e-commerce and web applications to produce amazing experiences for our clients.  We’re looking for…   Essential Skills: Five or more years’ experience of development knowledge using ASP.NET MVC A high level of database programming experience with Microsoft SQL Server Ability to g",
+          "id": 40814734,
+          "position": {
+            "title": "Senior ASP.Net (C#) Developer"
+          },
+          "postingTimestamp": 1427148444000
+        },
+        "savedTimestamp": 1428258306000
+      }
+    ]
+  },
+  "languages": {
+    "_total": 1,
+    "values": [
+      {
+        "id": 342831066,
+        "language": {
+          "name": "English"
+        }
+      }
+    ]
+  },
+  "lastModifiedTimestamp": 1411503736179,
+  "lastName": "Usick",
+  "location": {
+    "country": {
+      "code": "ca"
+    },
+    "name": "Winnipeg, Canada Area"
+  },
+  "mfeedRssUrl": "http://www.linkedin.com/rss/mefeed?key=NUrfP2sheNE62XupY3b6df0FS1IJsyBedvqerp9kOCqyadLxwbuHpGLf0ezRg3Gd",
+  "numConnections": 14,
+  "numConnectionsCapped": false,
+  "numRecommenders": 0,
+  "pictureUrl": "https://media.licdn.com/mpr/mprx/0_Ywrmd8IdgjCTWBQBNwH8CcDHJZSy7nv9Aweh7znHgY3j76vclVkam1GdxEA326QsqVofkADWzj8g2-qBN4zt3N85Kj8p2-ARA4zSovveUpvK6XobgW_iE3UMres25-QoZUlCSbrDud4",
+  "pictureUrls": {
+    "_total": 1,
+    "values": [
+      "https://media.licdn.com/mpr/mprx/0_xy9RqXqI6MAQEwDqMsIpCYXwNwK70IicHsIxTVZS54KE0F8BwvIZFW5mFLyQZFDNpvogNmXINprEjVhBMcbNi0kDiprojVlqScbJnXZSn6TijShgSPB4yD7E3i"
+    ]
+  },
+  "positions": {
+    "_total": 3,
+    "values": [
+      {
+        "company": {
+          "id": 1774290,
+          "name": "freelance software developer \"self employed\""
+        },
+        "endDate": {
+          "month": 2,
+          "year": 2015
+        },
+        "id": 657373913,
+        "isCurrent": false,
+        "startDate": {
+          "month": 12,
+          "year": 2014
+        },
+        "summary": "I was the sole developer in this project. This product was developed for a client I met through ODesk.com. This application required development of a custom web app which provided full access to a database through a well designed UI. Some features included:\n - ability to create, read, update and delete multiple types of enitities\n - advanced/custom search capabilities\n - user management\n - multi-tier authentication\nThe main features of this web application include:\n - Server built with Node.js\n - Front end built with AngularJS\n - Used MongoDB database",
+        "title": "Web Application Developer"
+      },
+      {
+        "company": {
+          "name": "Hamiota Golf Course"
+        },
+        "endDate": {
+          "month": 8,
+          "year": 2014
+        },
+        "id": 591831027,
+        "isCurrent": false,
+        "startDate": {
+          "month": 6,
+          "year": 2012
+        },
+        "summary": "Hamiota Golf Course was my summer job. My responsibilities included:\n - mowed rough\n - mowed fairways\n - trimmed grass \n - cleaned bathroom\n - assisted supervisor or others with golf course maintenance repairing greens, replacing sprinkler heads, fix breaks in the water system\n - maintained mowers",
+        "title": "Lawn Maintenance"
+      },
+      {
+        "company": {
+          "name": "Hamiota Co-op"
+        },
+        "endDate": {
+          "month": 5,
+          "year": 2014
+        },
+        "id": 591830271,
+        "isCurrent": false,
+        "startDate": {
+          "month": 10,
+          "year": 2013
+        },
+        "summary": "worked till, stock shelves, order products, worked in deli",
+        "title": "Store clerk"
+      }
+    ]
+  },
+  "publicProfileUrl": "https://www.linkedin.com/pub/christopher-usick/a4/832/b38",
+  "recommendationsReceived": {
+    "_total": 0
+  },
+  "relatedProfileViews": {
+    "_total": 10,
+    "values": [
+      {
+        "firstName": "Justin",
+        "id": "mke2delVCe",
+        "lastName": "Rocan"
+      },
+      {
+        "firstName": "Jenna",
+        "id": "2bWUoOuXJf",
+        "lastName": "Heidinger"
+      },
+      {
+        "firstName": "Ahsan",
+        "id": "gUWsQX8CqS",
+        "lastName": "R."
+      },
+      {
+        "firstName": "Derek",
+        "id": "CMoYe63T6Q",
+        "lastName": "P."
+      },
+      {
+        "firstName": "Kate",
+        "id": "N5wr4Tfq9W",
+        "lastName": "M."
+      },
+      {
+        "firstName": "Dipen",
+        "id": "GIOL1v_CWi",
+        "lastName": "P."
+      },
+      {
+        "firstName": "Geoff",
+        "id": "y7j9PeltLo",
+        "lastName": "B."
+      },
+      {
+        "firstName": "Alvin",
+        "id": "-aUWhFcpzn",
+        "lastName": "Concepcion"
+      },
+      {
+        "firstName": "Andrew",
+        "id": "v8lDvz5sLs",
+        "lastName": "Baluta"
+      },
+      {
+        "firstName": "Jackie",
+        "id": "ItDrDJhSaP",
+        "lastName": "Chommany"
+      }
+    ]
+  },
+  "skills": {
+    "_total": 11,
+    "values": [
+      {
+        "id": 1,
+        "skill": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "id": 2,
+        "skill": {
+          "name": "Web Development"
+        }
+      },
+      {
+        "id": 3,
+        "skill": {
+          "name": "Node.js"
+        }
+      },
+      {
+        "id": 4,
+        "skill": {
+          "name": "PostgreSQL"
+        }
+      },
+      {
+        "id": 5,
+        "skill": {
+          "name": "MongoDB"
+        }
+      },
+      {
+        "id": 6,
+        "skill": {
+          "name": "Microsoft Office"
+        }
+      },
+      {
+        "id": 7,
+        "skill": {
+          "name": "Microsoft Excel"
+        }
+      },
+      {
+        "id": 8,
+        "skill": {
+          "name": "Microsoft Word"
+        }
+      },
+      {
+        "id": 9,
+        "skill": {
+          "name": "PowerPoint"
+        }
+      },
+      {
+        "id": 10,
+        "skill": {
+          "name": "Leadership"
+        }
+      },
+      {
+        "id": 11,
+        "skill": {
+          "name": "Java"
+        }
+      }
+    ]
+  },
+  "suggestions": {
+    "toFollow": {
+      "companies": {
+        "_count": 98,
+        "_start": 0,
+        "values": [
+          {
+            "id": 1164302,
+            "name": "Job Seeker"
+          },
+          {
+            "id": 1085036,
+            "name": "Arnold Palmer Design Company"
+          },
+          {
+            "id": 278428,
+            "name": "Dye Designs"
+          },
+          {
+            "id": 870384,
+            "name": "TE Software"
+          },
+          {
+            "id": 146216,
+            "name": "Nicklaus Companies"
+          },
+          {
+            "id": 141645,
+            "name": "CoffeeCup Software"
+          },
+          {
+            "id": 2335941,
+            "name": "Ideaware Co"
+          },
+          {
+            "id": 1715640,
+            "name": "Nano Web Tech Limited"
+          },
+          {
+            "id": 617010,
+            "name": "Lima Bean"
+          },
+          {
+            "id": 349759,
+            "name": "Kyle Phillips Golf Course Design"
+          },
+          {},
+          {
+            "id": 406434,
+            "name": "Tony's Markets"
+          },
+          {
+            "id": 108992,
+            "name": "TurboChef Technologies, Inc."
+          },
+          {
+            "id": 1016636,
+            "name": "Trikoder"
+          },
+          {
+            "id": 702111,
+            "name": "Bocoup"
+          },
+          {
+            "id": 18235,
+            "name": "Lumigent Technologies"
+          },
+          {
+            "id": 900720,
+            "name": "Walters Golf Management"
+          },
+          {
+            "id": 2116047,
+            "name": "IT Consultis"
+          },
+          {
+            "id": 2424091,
+            "name": "Penn State Golf Course Turfgrass Management Program"
+          },
+          {
+            "id": 339725,
+            "name": "Fazio Golf Course Designers, Inc."
+          },
+          {
+            "id": 98980,
+            "name": "Audubon International"
+          },
+          {
+            "id": 135973,
+            "name": "Eversun Software Corporation"
+          },
+          {
+            "id": 250920,
+            "name": "XWiki"
+          },
+          {
+            "id": 1813533,
+            "name": "Flagstick GCCM"
+          },
+          {
+            "id": 2043184,
+            "name": "Kitchen Window"
+          },
+          {
+            "id": 1800580,
+            "name": "Formaggio Kitchen"
+          },
+          {
+            "id": 1345763,
+            "name": "Savory Spice Shop"
+          },
+          {
+            "id": 882421,
+            "name": "Kason Industries"
+          },
+          {
+            "id": 594738,
+            "name": "Food Should Taste Good"
+          },
+          {
+            "id": 384300,
+            "name": "Datz"
+          },
+          {
+            "id": 218083,
+            "name": "Wildtree Herbs, Inc."
+          },
+          {
+            "id": 17032,
+            "name": "Cooking.com (part of TCC Cooking Inc. a wholly owned subsidiary of Target Corp.)"
+          },
+          {
+            "id": 1554970,
+            "name": "Fusion Communications Group Inc."
+          },
+          {
+            "id": 141397,
+            "name": "CourseTrends, Inc."
+          },
+          {},
+          {
+            "id": 955956,
+            "name": "Golf Data"
+          },
+          {
+            "id": 214251,
+            "name": "IGM International Golf Maintenance"
+          },
+          {
+            "id": 674730,
+            "name": "appendTo"
+          },
+          {
+            "id": 13165,
+            "name": "W3C"
+          },
+          {
+            "id": 1152169,
+            "name": "Young Chefs Academy"
+          },
+          {
+            "id": 1151346,
+            "name": "Wellness in the Schools"
+          },
+          {
+            "id": 741790,
+            "name": "Rouxbe Online Cooking School"
+          },
+          {
+            "id": 204843,
+            "name": "Parties That Cook"
+          },
+          {
+            "id": 2522056,
+            "name": "CISCO (Pvt.) Ltd."
+          },
+          {
+            "id": 2345567,
+            "name": "West Coast Golf Group"
+          },
+          {
+            "id": 1047590,
+            "name": "Erin Hills Golf Course"
+          },
+          {
+            "id": 2176280,
+            "name": "Mexican.vc"
+          },
+          {
+            "id": 641270,
+            "name": "Foundum S.L."
+          },
+          {
+            "id": 2184034,
+            "name": "A Pampered Chef Consultant"
+          },
+          {
+            "id": 1168932,
+            "name": "Slow Food UW"
+          },
+          {
+            "id": 578676,
+            "name": "America's Test Kitchen"
+          },
+          {
+            "id": 1698449,
+            "name": "The Zeitgeist Movement"
+          },
+          {
+            "id": 212833,
+            "name": "Developer"
+          },
+          {
+            "id": 1970103,
+            "name": "National Skills Academy for IT"
+          },
+          {
+            "id": 208456,
+            "name": "Infobase IT"
+          },
+          {
+            "id": 156944,
+            "name": "HostDime.com"
+          },
+          {
+            "id": 1452637,
+            "name": "TemplateMonster.com"
+          },
+          {
+            "id": 692325,
+            "name": "Trinity web tech pvt ltd."
+          },
+          {
+            "id": 599867,
+            "name": "The Frontier Group"
+          },
+          {
+            "id": 53441,
+            "name": "SitePoint"
+          },
+          {
+            "id": 890104,
+            "name": "Used Gym Equipment LLC"
+          },
+          {
+            "id": 573332,
+            "name": "Cellucor"
+          },
+          {
+            "id": 534963,
+            "name": "FITCO Fitness Center Outfitters"
+          },
+          {
+            "id": 35703,
+            "name": "Bodybuilding.com"
+          },
+          {
+            "id": 706327,
+            "name": "MindGenies"
+          },
+          {
+            "id": 368805,
+            "name": "Choffy Inc."
+          },
+          {
+            "id": 916490,
+            "name": "Lyyti"
+          },
+          {
+            "id": 2415237,
+            "name": "Mazenet"
+          },
+          {
+            "id": 1020429,
+            "name": "Adaxa"
+          },
+          {
+            "id": 242915,
+            "name": "EGCOA European Golf Course Owners Association"
+          },
+          {
+            "id": 33030,
+            "name": "GCSAA"
+          },
+          {
+            "id": 1435680,
+            "name": "Self-employed actress"
+          },
+          {
+            "id": 1302424,
+            "name": "IP.com"
+          },
+          {
+            "id": 2082710,
+            "name": "NetworkEdge Solutions, LLC"
+          },
+          {
+            "id": 1540468,
+            "name": "Charles Communications Associates"
+          },
+          {
+            "id": 2311266,
+            "name": "Atlantic Honda"
+          },
+          {
+            "id": 1786060,
+            "name": "The Golf Environment Organization"
+          },
+          {
+            "id": 1624074,
+            "name": "MODX, LLC"
+          },
+          {
+            "id": 842418,
+            "name": "PHP Freelancer"
+          },
+          {
+            "id": 705571,
+            "name": "CS Soft Solutions Pvt. Ltd."
+          },
+          {
+            "id": 677762,
+            "name": "NetDesignPlus"
+          },
+          {
+            "id": 586977,
+            "name": "jQuery Project"
+          },
+          {
+            "id": 324898,
+            "name": "SADAF Technology Development"
+          },
+          {
+            "id": 273786,
+            "name": "Dream Staffing LLC"
+          },
+          {
+            "id": 1962461,
+            "name": "TrainMore"
+          },
+          {
+            "id": 1373164,
+            "name": "LifeSpan Fitness"
+          },
+          {
+            "id": 68349,
+            "name": "HealthCity"
+          },
+          {
+            "id": 543973,
+            "name": "SphereGen"
+          },
+          {
+            "id": 230052,
+            "name": "Developer Express, Inc."
+          },
+          {
+            "id": 444897,
+            "name": "Old Course Hotel, Golf Resort & Spa"
+          },
+          {
+            "id": 335054,
+            "name": "Elmwood College"
+          },
+          {
+            "id": 1552812,
+            "name": "GroupGolfer.com"
+          },
+          {
+            "id": 2041995,
+            "name": "Fusion Software"
+          },
+          {
+            "id": 1183366,
+            "name": "Verulam"
+          },
+          {
+            "id": 1732455,
+            "name": "Cocoon"
+          },
+          {
+            "id": 2438549,
+            "name": "PSD2HTML"
+          },
+          {
+            "id": 2306189,
+            "name": "Jiffy Lube DC"
+          },
+          {
+            "id": 908400,
+            "name": "Qlipso"
+          }
+        ]
+      },
+      "industries": {
+        "_total": 0
+      },
+      "newsSources": {
+        "_total": 0
+      },
+      "people": {
+        "_total": 0
+      }
+    }
+  },
+  "summary": "I am a self directed and ambitious individual. I am a problem solver at heart and strive to be a continual learner. I was raised in rural communities in south western Manitoba, and still have a preference for living in rural areas. I enjoy the outdoors and value physical activities. I always try to incorporate some form of physical activity into my daily life. I also enjoy cooking, reading and socializing with my friends.\n\nCreating innovation and change through technology is my passion. I am studying to become a software engineer.  In the future, I aspire to have a position which the flexibility to work remotely at least part time. I have made small steps in this direction as I have completed a small contract through remote work. In this experience I learned a lot about remote work as well as software development in general. After I complete my schooling I plan to find work in the IT field.",
+  "volunteer": {
+    "causes": {
+      "_total": 3,
+      "values": [
+        {
+          "name": "education"
+        },
+        {
+          "name": "health"
+        },
+        {
+          "name": "scienceAndTechnology"
+        }
+      ]
+    },
+    "opportunities": {
+      "boardMember": false,
+      "proBono": true
+    },
+    "supportedOrganizations": {
+      "_total": 2,
+      "values": [
+        {
+          "id": 30984,
+          "name": "Meetup"
+        },
+        {
+          "id": 1418841,
+          "name": "GitHub"
+        }
+      ]
+    },
+    "volunteerExperiences": {
+      "_total": 2,
+      "values": [
+        {
+          "id": 29,
+          "organization": {
+            "name": "Hamiota Collegiate Institute"
+          },
+          "role": "assistant basketball coach"
+        },
+        {
+          "id": 30,
+          "organization": {
+            "name": "Local community"
+          },
+          "role": "volunteer"
+        }
+      ]
+    }
+  }
+}
